@@ -1,0 +1,53 @@
+
+body {
+    background-image: url(https://cdn1.katadata.co.id/media/images/thumb/2021/09/27/Polusi_Udara_Di_Indonesia-2021_09_27-14_21_45_d1871507b6a27f9650dd63ed49c6b0ee_960x640_thumb.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container {
+    width: 900px;
+    margin: 20px auto;
+    background-color:  linear-gradient(to right, #f12711, #f5af19);
+    text-align: center;
+}
+
+h1{
+    background-color: gray;
+    color: wheat;
+    text-align: center;
+}
+
+h2 { 
+    background-color: gray;
+    color: wheat;
+    text-align: center;
+}
+
+p {
+    padding: 20p;
+    text-align: justify;
+    border: 3px solid rgb(151, 122, 43);
+}
+
+#pengantar {
+    background-color: tan;
+    padding: 50px;
+}
+
+.content1 {
+    background-color: tan;
+}
+
+.content2 {
+    background-color: tan;
+}
+
+.content3 {
+    background-color: tan;
+}
+
+.tulisanbold {
+    font-weight: bold;
+}
