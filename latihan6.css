@@ -1,0 +1,77 @@
+
+body {
+    background-image: url(https://asset-2.tstatic.net/kaltim/foto/bank/images/Info-beasiswa-2023-untuk-mahasiswa-dalam-negeri-yang-mas.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+header {
+    background-color: #b5f7f7;
+    background-image: url(https://campuspedia.id/news/wp-content/uploads/2021/03/Blue-Office-Hacks-YouTube-Thumbnail.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: left;
+    color: #000000;
+    text-align: center;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+}
+
+#kse {
+    display: block;
+    margin: 0 auto;
+    width: 750px;
+    border: 3px solid #bdaa3d;
+    border-radius: 10px;
+}
+
+.outline {
+    outline-style: double;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    background-color: #f4f4f4;
+    border-radius: 10px;
+    font-family: Arial, sans-serif; /* Mengubah font ke Arial */
+    text-align: justify;
+}
+.benefit {
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: Arial, sans-serif; 
+}
+.timeline {
+    border: 2px solid #000000;      
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+table thead {
+    background-color: #000000;
+    color: #fff;
+}
+table th, table td {
+    border: 1px solid #131111;
+    padding: 8px;
+}
+.footer {
+    background-color: #b5f7f7;
+    padding-bottom: 4%;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    padding: 3px;
+    font-family: Arial, sans-serif;
+}
